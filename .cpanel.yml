@@ -4,5 +4,5 @@ deployment:
     - export DEPLOYPATH=/home/adatechn/public_html
     - /bin/cp index.html $DEPLOYPATH/
     - /bin/mkdir -p $DEPLOYPATH/assets
-    - /bin/cp assets/index-dWEU5LKr.js $DEPLOYPATH/assets/
-    - /bin/cp assets/index-svHyswB2.css $DEPLOYPATH/assets/
+    - /bin/cp assets/index-z59s-mW9.js $DEPLOYPATH/assets/
+    - /bin/cp assets/index-xU7Tuw6t.css $DEPLOYPATH/assets/
