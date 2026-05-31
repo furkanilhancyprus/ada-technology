@@ -3,6 +3,7 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/adatechn/public_html
     - /bin/cp index.html $DEPLOYPATH/
+    - /bin/cp .htaccess $DEPLOYPATH/
     - /bin/cp ada-technology-logo.png $DEPLOYPATH/
     - /bin/cp ada-technology-mark.png $DEPLOYPATH/
     - /bin/cp ada-technology-mark-light.svg $DEPLOYPATH/
